@@ -1,0 +1,93 @@
+body,h1,h2 {
+	font-family: "Raleway", sans-serif;
+}
+
+body, html {
+	height: 100%;
+}
+
+p {
+	line-height: 2;
+}
+
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.bgimg {
+	background-image: url("/change/olaszp.jpg")
+}
+
+.bgimg2 {
+	background-image: url("/change/heart2.jpg")
+}
+
+
+#img
+{
+	width:400px; 
+                height:200px; 
+                object-fit: cover; 
+}
+
+#pizza-kep {
+	width: 300px;
+
+}
+
+.tabla
+{
+	width: 80%;
+	text-align: center;
+}
+.tabla tr td{
+
+border: 1px solid black;
+overflow-x: auto;
+}
+
+.valtozo{ 
+margin-bottom: 50px;
+position: relative;
+float: left;
+width: 100%;
+min-height: 700px;
+	}
+
+.megjegy
+{
+	float: left;
+	margin-top: 100px;
+}
+
+.comments {
+	width: 500px;
+	height: 200px;
+	margin-top: 50px;
+}
+
+h5{
+	float: left;
+	margin-top: 200px;
+}
+
+.megjegyzem{
+	width: 60%
+}
+
+#pizzakepe {
+	height: 300px;
+}
+
+.regist-table{
+	width: 60%;
+	border: none;
+	font-family: "Raleway", sans-serif;
+}
+
+.regist-table input {
+	float: right;
+
+}
